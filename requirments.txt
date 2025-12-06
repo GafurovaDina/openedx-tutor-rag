@@ -1,0 +1,7 @@
+qdrant-client
+llama-index-core>=0.10.0
+llama-index-vector-stores-qdrant>=0.1.0
+llama-index-embeddings-fastembed>=0.1.0
+llama-index-embeddings-huggingface
+sentence-transformers
+google-generativeai==0.8.5
